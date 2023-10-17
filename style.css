@@ -7,7 +7,11 @@ body
 .main_header {background-color: rgb(66, 21, 21);}
 .main_header p {color: white;}
 .book_table {background-color: blanchedalmond;}
-.Feliciano {font-weight: bold;}
+.Feliciano 
+{
+    font-weight: bold;
+    float: left;
+}
 
 nav li 
 {
