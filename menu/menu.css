@@ -1,0 +1,39 @@
+header {
+    color: white;
+    text-align: left;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav 
+{ background-image: ;
+
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: blue;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+.About_us {
+    text-align: right;
+    display: block;
+}
+div img
+ { width: 250px;
+    float: left;
+
+}
+
+.About_us1 
+{
+     width: 400px;
+float: right;
+}
+
