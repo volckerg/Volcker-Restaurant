@@ -2,9 +2,9 @@
 body 
 { 
     background-image: url(image6.jpg);
-    background-attachment: fixed;
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 header 
@@ -90,5 +90,7 @@ footer {
     color: white;
     text-decoration: none;
     color: white;
-    align-items: center;
+    align-items: center; 
 }
+  
+    
